@@ -34,3 +34,6 @@ build/
 
 # Eclipse workspace
 .metadata/
+
+# Eclipse workspace
+.metadata/
